@@ -2,7 +2,7 @@ from src.katas import fizz_buzz
 import unittest
 
 
-class FizzBuzzTest(unittest.TestCase):
+class FizzBuzz_test(unittest.TestCase):
 
    
    
