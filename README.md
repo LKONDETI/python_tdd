@@ -25,3 +25,23 @@ Just run Python unit test in the project root.
 
 python -m unittest discover tests -p '*_test.py'
 ```
+
+
+## Table of Contents
+### Arrays & Hashing
+### Two Pointers
+### Sliding Window
+### Stack
+### Binary Search
+### Linked List
+### Trees
+### Priority Queue
+### Backtracking
+Graphs
+Dynamic Programming
+Hints
+Tries
+Intervals
+Math & Geometry
+Bit Manipulation
+Greedy
