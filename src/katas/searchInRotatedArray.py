@@ -18,3 +18,4 @@ class Solution:
                     r = mid -1
                 elif target > nums[r]:
                     r = mid -1
+        return -1
