@@ -1,3 +1,4 @@
+#python -m unittest tests/threeSum_test.py
 from src.katas.threeSum import Solution
 from unittest import TestCase
 
