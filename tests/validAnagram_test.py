@@ -1,7 +1,7 @@
 from unittest import TestCase
 from src.katas.validAnagram import Solution
 
-class TestFirstUniqueCharaterString(TestCase):
+class TestValidAnagram(TestCase):
 
     def test_anagram(self):
         s = "anagram"
