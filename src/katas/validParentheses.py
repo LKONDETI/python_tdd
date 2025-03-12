@@ -1,6 +1,8 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        # opened the stack
         stack = []
+        # opened a dictionaries for closing and opening brackets
         closeToOpen  = { ")" : "(", "]" : "[", "}" : "{"}
 
         for c in s:
