@@ -17,5 +17,4 @@ class Solution:
         return ''.join(s_list)
 
 
-
-        
+#time and space complexity is O(n) where n is the length of the string s.
