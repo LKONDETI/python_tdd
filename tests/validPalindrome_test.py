@@ -18,3 +18,8 @@ class TestValidPalindrome(TestCase):
        result = Solution()
        self.assertEqual(result.isPalindrome(s), True)
     
+    def test_single_character(self):
+         s = "a"
+         result = Solution()
+         self.assertEqual(result.isPalindrome(s), True)
+    
