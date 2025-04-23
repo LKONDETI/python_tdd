@@ -45,6 +45,7 @@ python -m unittest discover tests -p '*_test.py'
 | Rotate Array | [Video](https://www.youtube.com/watch?v=BHr381Guz3Y&ab_channel=NeetCode) | O(n) | O(n) | Two Pointer |
 | Container With Most Water | [Video](https://www.youtube.com/watch?v=UuiTKBwPgAo) | O(n) | - | Two Pointer |
 | Word Pattern | [Video](https://www.youtube.com/watch?v=W_akoecmCbM&ab_channel=NeetCode) | O(n) | O(m) where m is the length of the words | Heap map |
+| Ransom Note | [Video](https://www.youtube.com/watch?v=i3bvxJyUB40&ab_channel=GregHogg) | O(n+m) | O(k) | Heap map |
 
 ## Binary Problems
 
