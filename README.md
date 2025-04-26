@@ -44,8 +44,9 @@ python -m unittest discover tests -p '*_test.py'
 | Majority Element | [Video](https://www.youtube.com/watch?v=7pnhv842keE) | O(n) | O(1) | Two Pointer |
 | Rotate Array | [Video](https://www.youtube.com/watch?v=BHr381Guz3Y&ab_channel=NeetCode) | O(n) | O(n) | Two Pointer |
 | Container With Most Water | [Video](https://www.youtube.com/watch?v=UuiTKBwPgAo) | O(n) | - | Two Pointer |
-| Word Pattern | [Video](https://www.youtube.com/watch?v=W_akoecmCbM&ab_channel=NeetCode) | O(n) | O(m) where m is the length of the words | Heap map |
-| Ransom Note | [Video](https://www.youtube.com/watch?v=i3bvxJyUB40&ab_channel=GregHogg) | O(n+m) | O(k) | Heap map |
+| Word Pattern | [Video](https://www.youtube.com/watch?v=W_akoecmCbM&ab_channel=NeetCode) | O(n) | O(m) where m is the length of the words | Hash map |
+| Ransom Note | [Video](https://www.youtube.com/watch?v=i3bvxJyUB40&ab_channel=GregHogg) | O(n+m) | O(k) | Hash map |
+																					
 
 ## Binary Problems
 
@@ -111,6 +112,7 @@ python -m unittest discover tests -p '*_test.py'
 | Problem | Video | Time Complexity | Space Complexity | Approach |
 |--------|--------|------------------|-------------------|----------|
 | Longest Substring Without Repeating Characters | [Video](https://www.youtube.com/watch?v=FCbOzdHKW18&ab_channel=GregHogg) | O(n) | O(n) | Sliding Window |
+| Isomorphic Strings | [Video](https://www.youtube.com/watch?v=7yF-U1hLEqQ&ab_channel=NeetCode) | O(n) | O(k) | Hash map |
 | Minimum Window Substring | [Video](https://www.youtube.com/watch?v=jSto0O4AJbM&ab_channel=NeetCode) | O(n) | O(n) | Sliding Window |
 | Valid Anagram | [Video](https://www.youtube.com/watch?v=9UtInBqnCgA) | O(s + t) | O(s + t) | - |
 | Valid Parentheses | [Video](https://www.youtube.com/watch?v=WTzjTskDFMg&ab_channel=NeetCode) | O(n) | O(n) | - |
