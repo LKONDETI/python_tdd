@@ -218,14 +218,3 @@ python -m unittest tests.specific_test_file
 
 ---
 
-## Contributing
-
-Feel free to contribute to this project by:
-- Adding new problem solutions
-- Improving existing solutions
-- Adding more comprehensive tests
-- Fixing bugs or improving documentation
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
