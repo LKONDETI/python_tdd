@@ -102,6 +102,7 @@ python -m unittest tests.specific_test_file
 | Is Subsequence | [Video](https://www.youtube.com/watch?v=PwDqpOMwg6U) | O(n) | O(1) | Two Pointer |
 | Greatest Common Divisor of Strings | [Video](https://www.youtube.com/watch?v=Jt3xhLzq0iQ) | O(n + m) | O(1) | Math |
 | Reverse Vowels of a String | [Video](https://www.youtube.com/watch?v=9xT1J9G7qRA) | O(n) | O(1) | Two Pointer |
+| Decode String | [Video](https://www.youtube.com/watch?v=qB0zZpBJlh8) | O(n) | O(n) | Stack |
 | Word Pattern | [Video](https://www.youtube.com/watch?v=W_akoecmCbM&ab_channel=NeetCode) | O(n) | O(m) where m is the length of the words | Hash map |
 | Ransom Note | [Video](https://www.youtube.com/watch?v=i3bvxJyUB40&ab_channel=GregHogg) | O(n+m) | O(k) | Hash map |
 
