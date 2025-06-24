@@ -139,6 +139,7 @@ python -m unittest tests.specific_test_file
 | Subsets | [Video](http://youtube.com/watch?v=REOH22Xwdkk) | O(n·2ⁿ) | O(n·2ⁿ) | Backtracking |
 | Permutations | [Video](http://youtube.com/watch?v=s7AvT7cGdSo) | O(n!) | O(n!) | Backtracking |
 | Nth Tribonacci Number | [Video](https://www.youtube.com/watch?v=UZRkpGk943Q) | O(n) | O(1) | Bottom-up |
+| Min Cost Climbing Stairs | [Video](https://www.youtube.com/watch?v=ktmzAZWkEZ0) | O(n) | O(n) | Bottom-up |
 
 ## Graph
 
