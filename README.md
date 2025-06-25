@@ -220,6 +220,7 @@ python -m unittest tests.specific_test_file
 | Asteroid Collision | [Video](https://www.youtube.com/watch?v=4No53MxxruE) | O(n) | O(n) | Stack |
 | Number of Recent Calls | [Video](https://www.youtube.com/watch?v=4KcZOGPjJ9Q) | O(1) (amortized) | O(n) | Queue |
 | Fizz Buzz | [Video](https://www.youtube.com/watch?v=QPZ0pIK_wsc) | O(n) | O(1) | Simulation |
+| Sqrt(x) | [Video](https://www.youtube.com/watch?v=zdMhGxRWutQ) | O(logn) | O(1) | Binary Search |
 
 ---
 
