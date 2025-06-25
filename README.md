@@ -80,6 +80,7 @@ python -m unittest tests.specific_test_file
 | Find the Highest Altitude | [Video](https://www.youtube.com/watch?v=2p-ySDvyzLg) | O(n) | O(1) | Prefix Sum |
 | Maximum Number of K-Sum Pairs | [Video](https://www.youtube.com/watch?v=FzvK5uuaki8) | O(n) | O(n) | Hash Map |
 | Find the Difference of Two Arrays | [Video](https://www.youtube.com/watch?v=oypp_RzI69w) | O(n + m) | O(n + m) | Hash Set |
+| Plus One | [Video](https://www.youtube.com/watch?v=jIaA8boiG1s) | O(n) | O(1) | simulation of manual addition (digit-wise traversal from right to left) |
 
 ## String
 
