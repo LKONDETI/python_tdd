@@ -169,6 +169,7 @@ python -m unittest tests.specific_test_file
 | Detect Cycle in a Linked List | [Video](https://www.youtube.com/watch?v=gBTe7lFR3vc&ab_channel=NeetCode) | O(n) | O(1) | Fast and Slow pointers |
 | Delete the Middle Node of a Linked List | [Video](https://www.youtube.com/watch?v=WT0O4TTjyNc) | O(n) | O(1) | Fast and Slow algorithm |
 | Even Odd Linked List | [Video](https://www.youtube.com/watch?v=k52H4XP5_pk) | O(n) | O(1) | Iterative |
+| Maximum Twin Sum of a Linked List | [Video](https://www.youtube.com/watch?v=doj95MelfSA) | O(n) | O(1) | slow and fast algorithm |
 
 ## Binary Problems
 
