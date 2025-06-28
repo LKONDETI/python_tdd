@@ -141,6 +141,7 @@ python -m unittest tests.specific_test_file
 | Permutations | [Video](http://youtube.com/watch?v=s7AvT7cGdSo) | O(n!) | O(n!) | Backtracking |
 | Nth Tribonacci Number | [Video](https://www.youtube.com/watch?v=UZRkpGk943Q) | O(n) | O(1) | Bottom-up |
 | Min Cost Climbing Stairs | [Video](https://www.youtube.com/watch?v=ktmzAZWkEZ0) | O(n) | O(n) | Bottom-up |
+| Edit Distance | [Video](https://www.youtube.com/watch?v=XYi2-LPrwm4) | O(m * n) | O(m * n) | DP |
 
 ## Graph
 
