@@ -106,6 +106,7 @@ python -m unittest tests.specific_test_file
 | Decode String | [Video](https://www.youtube.com/watch?v=qB0zZpBJlh8) | O(n) | O(n) | Stack |
 | Word Pattern | [Video](https://www.youtube.com/watch?v=W_akoecmCbM&ab_channel=NeetCode) | O(n) | O(m) where m is the length of the words | Hash map |
 | Ransom Note | [Video](https://www.youtube.com/watch?v=i3bvxJyUB40&ab_channel=GregHogg) | O(n+m) | O(k) | Hash map |
+| Group Anagrams | [Video](https://www.youtube.com/watch?v=vzdNOK2oB2E) | O(m*n) | O(m*n) | Hash map |
 
 ## Tree
 
