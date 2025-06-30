@@ -218,6 +218,7 @@ python -m unittest tests.specific_test_file
 | Next Greater Element I | [Video](https://www.youtube.com/watch?v=68a1Dc_qVq4&ab_channel=NeetCode) | O(n + m) | O(n) | Monotonic Stack |
 | Palindrome Number | [Video](https://www.youtube.com/watch?v=yubRKwixN-U) | O(log n) | O(1) | Arithmetic |
 | Roman to Integer | [Video](https://www.youtube.com/watch?v=3jdxYj3DD98) | O(n) | O(1) | Arithmetic |
+| Integer to Roman | [Video](https://www.youtube.com/watch?v=ohBNdSJyLh8) | O(n) | O(1) | Arithmetic |
 | Search Insert Position | - | O(log n) | O(1) | Binary Search |
 | Guess Number Higher or Lower | [Video](https://www.youtube.com/watch?v=6rrgCVjLwUg) | O(log n) | O(1) | Binary Search |
 | Asteroid Collision | [Video](https://www.youtube.com/watch?v=4No53MxxruE) | O(n) | O(n) | Stack |
