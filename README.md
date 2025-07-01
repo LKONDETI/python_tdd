@@ -81,6 +81,7 @@ python -m unittest tests.specific_test_file
 | Maximum Number of K-Sum Pairs | [Video](https://www.youtube.com/watch?v=FzvK5uuaki8) | O(n) | O(n) | Hash Map |
 | Find the Difference of Two Arrays | [Video](https://www.youtube.com/watch?v=oypp_RzI69w) | O(n + m) | O(n + m) | Hash Set |
 | Plus One | [Video](https://www.youtube.com/watch?v=jIaA8boiG1s) | O(n) | O(1) | simulation of manual addition (digit-wise traversal from right to left) |
+| Find First and last positions in sored array | [Video](https://www.youtube.com/watch?v=4sQL7R5ySUU) | O(log(n)) | O(1) | Binary Search |
 
 ## String
 
