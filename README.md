@@ -184,6 +184,7 @@ python -m unittest tests.specific_test_file
 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Video](https://www.youtube.com/watch?v=RyBM56RIWrM) | O(n log n) | O(n) | Bit Manipulation |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Video](https://www.youtube.com/watch?v=WnPLSRLSANE&ab_channel=NeetCode) | O(n) | O(1) | Bit Manipulation |
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64&ab_channel=NeetCode) | O(1) | O(1) | Bit Manipulation |
+| [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Video](https://www.youtube.com/watch?v=keuWJ47xG8g) | O(max(len(a), len(b))) | O(max(len(a), len(b))) | Bit Manipulation |
 
 ## Heap
 
