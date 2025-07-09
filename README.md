@@ -55,11 +55,11 @@ python -m unittest tests.specific_test_file
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Video](https://www.youtube.com/watch?v=UXDSeD9mN-k) | O(n) | O(n) | Hash Set |
 | [Two Sum II (Input Array Is Sorted)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Video](https://www.youtube.com/watch?v=Q2Tw6gcVEwc) | O(n) | O(1) | Two Pointer |
 | [3 Sum](https://leetcode.com/problems/3sum/) | [Video](https://www.youtube.com/watch?v=jzZsG8n2R9A) | O(n²) | O(1) / O(n) | Two Pointer |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Video](https://www.youtube.com/watch?v=1pkOgXD63yU) | - | - | - |
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Video](https://www.youtube.com/watch?v=3OamzN90kPg) | O(n) | O(n) | - |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Video](https://www.youtube.com/watch?v=1pkOgXD63yU) | O(n) | O(1)| Optimal |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Video](https://www.youtube.com/watch?v=3OamzN90kPg) | O(n) | O(n) | Hash set |
 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Video](https://www.youtube.com/watch?v=ypn0aZ0nrL4) | O(n) | O(n) | Sliding Window |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Video](https://www.youtube.com/watch?v=bNvIQI2wAjk) | O(n) | O(1) | Prefix Product |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Video](https://www.youtube.com/watch?v=5WZl3MMT0Eg) | - | - | - |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Video](https://www.youtube.com/watch?v=5WZl3MMT0Eg) | O(n) | O(1) | Kadane's Algorithm |
 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Video](https://www.youtube.com/watch?v=lXVy6YWFcRM) | O(n) | O(1) | Dynamic Programming |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Video](https://www.youtube.com/watch?v=nIVW4P8b1VA) | - | - | - |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Video](https://www.youtube.com/watch?v=U8XENwh8Oy8) | - | - | - |
