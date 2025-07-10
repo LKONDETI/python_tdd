@@ -61,8 +61,8 @@ python -m unittest tests.specific_test_file
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Video](https://www.youtube.com/watch?v=bNvIQI2wAjk) | O(n) | O(1) | Prefix Product |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Video](https://www.youtube.com/watch?v=5WZl3MMT0Eg) | O(n) | O(1) | Kadane's Algorithm |
 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Video](https://www.youtube.com/watch?v=lXVy6YWFcRM) | O(n) | O(1) | Dynamic Programming |
-| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Video](https://www.youtube.com/watch?v=nIVW4P8b1VA) | - | - | - |
-| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Video](https://www.youtube.com/watch?v=U8XENwh8Oy8) | - | - | - |
+| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Video](https://www.youtube.com/watch?v=nIVW4P8b1VA) | O(log(n)) | O(1) | Iterative |
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Video](https://www.youtube.com/watch?v=U8XENwh8Oy8) | O(log(n)) | O(1) | Binary search |
 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Video](https://www.youtube.com/watch?v=41gyzVIx-ds) | O(n) | O(1) | Array |
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Video](https://www.youtube.com/watch?v=ZGxqqjljpUI&t=130s) | O(n) | O(1) | Array |
 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Video](https://www.youtube.com/watch?v=9K_Am2sQwv0) | O(n) | O(n) | Array |
@@ -192,6 +192,7 @@ python -m unittest tests.specific_test_file
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Video](https://www.youtube.com/watch?v=Hr5cWUld4vU&ab_channel=NeetCode) | O(n) | O(n) or O(log n) | DFS |
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Video](https://www.youtube.com/watch?v=PwjF3RO9djY&ab_channel=GregHogg) | O(n) | O(n) | In-order traversal |
 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Video](https://www.youtube.com/watch?v=Z2Q6UsVIyxY) | O(n) | O(n) | DFS |
+| [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Video](https://www.youtube.com/watch?v=Vam9gldRapY) | O(n) | O(n) | DFS |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Video](https://www.youtube.com/watch?v=6ZnyEApgFYg) | O(n) | O(n) | BFS |
 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Video](https://www.youtube.com/watch?v=MzQzY0iP3GU&ab_channel=ShaheerShukur) | O(n) | O(h) | DFS |
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Video](https://www.youtube.com/watch?v=nKggNAiEpBE) | O(n) | O(h) | DFS |
