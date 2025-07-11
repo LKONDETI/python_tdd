@@ -221,6 +221,7 @@ python -m unittest tests.specific_test_file
 |---------|-------|-----------------|------------------|----------|
 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Video](https://www.youtube.com/watch?v=UdUUnoiLkPg&ab_channel=GregHogg) | O(n) | O(1) | Sliding Window |
 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Video](https://www.youtube.com/watch?v=kEfPSzgL-Ss) | O(n) | O(1) | Sliding Window |
+| [Minimum Size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Video](https://www.youtube.com/watch?v=aYqYMIqZx5s) | O(n) | O(1) | Sliding Window |
 
 ## Interval
 
