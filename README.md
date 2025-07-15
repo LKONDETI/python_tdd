@@ -185,8 +185,8 @@ python -m unittest tests.specific_test_file
 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Video](https://www.youtube.com/watch?v=RyBM56RIWrM) | O(n log n) | O(n) | Bit Manipulation |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Video](https://www.youtube.com/watch?v=WnPLSRLSANE&ab_channel=NeetCode) | O(n) | O(1) | Bit Manipulation |
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64&ab_channel=NeetCode) | O(1) | O(1) | Bit Manipulation |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Video](https://www.youtube.com/watch?v=d4zLyf32e3I&t=225s) | O(n) | O(n) | BFS |
 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Video](https://www.youtube.com/watch?v=keuWJ47xG8g## Tree
-
 | Problem | Video | Time Complexity | Space Complexity | Approach |
 |---------|-------|-----------------|------------------|----------|
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Video](https://www.youtube.com/watch?v=Hr5cWUld4vU&ab_channel=NeetCode) | O(n) | O(n) or O(log n) | DFS |
