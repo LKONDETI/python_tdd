@@ -14,3 +14,9 @@ class TestValidAnagram(TestCase):
         t = "rat"
         result = Solution()
         self.assertEqual(result.isAnagram(s,t), False)
+    
+    def test_empty_strings(self):
+        s = ""
+        t = ""
+        result = Solution()
+        self.assertEqual(result.isAnagram(s,t), True)

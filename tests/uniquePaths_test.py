@@ -14,3 +14,9 @@ class TestUniquePaths(TestCase):
         
         solution = Solution()
         self.assertEqual(solution.uniquePaths(3,2), 3)
+    
+    def test_single_row(self):
+        m = 1
+        n = 5
+        solution = Solution()
+        self.assertEqual(solution.uniquePaths(m,n), 1)
