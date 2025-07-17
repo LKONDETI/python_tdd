@@ -195,6 +195,7 @@ python -m unittest tests.specific_test_file
 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Video](https://www.youtube.com/watch?v=Vam9gldRapY) | O(n) | O(n) | DFS |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Video](https://www.youtube.com/watch?v=6ZnyEApgFYg) | O(n) | O(n) | BFS |
 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Video](https://www.youtube.com/watch?v=MzQzY0iP3GU&ab_channel=ShaheerShukur) | O(n) | O(h) | DFS |
+| [Maximum Level Sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Video](https://www.youtube.com/watch?v=9VFtLItLanM) | O(n) | O(h) | DFS) | O(n) | O(w) | BFS |
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Video](https://www.youtube.com/watch?v=nKggNAiEpBE) | O(n) | O(h) | DFS |
 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Video](https://www.youtube.com/watch?v=3jvWodd7ht0) | O(n) | O(h) | DFS |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Video](https://www.youtube.com/watch?v=hTM3phVI6YQ) | O(n) | O(h) | BFS/DFS |
