@@ -19,3 +19,4 @@ class TestThreeSum(TestCase):
         nums = [0,0,0]
         solution = Solution()
         self.assertEqual(solution.threeSum(nums), [[0,0,0]])
+    

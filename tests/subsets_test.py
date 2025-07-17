@@ -21,3 +21,9 @@ class TestSubsets(TestCase):
         output = [[1, 2], [1], [2], []]
         solution = Solution()
         self.assertEqual(solution.subsets(nums), output)
+    
+    def test_empty_array(self):
+        nums = []
+        output = [[]]
+        solution = Solution()
+        self.assertEqual(solution.subsets(nums), output)
