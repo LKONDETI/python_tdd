@@ -124,6 +124,7 @@ python -m unittest tests.specific_test_file
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Video](https://www.youtube.com/watch?v=hTM3phVI6YQ) | O(n) | O(h) | BFS/DFS |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Video](https://www.youtube.com/watch?v=KcNt6v_56cc) | O(h) | O(h) | Recursion |
 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Video](https://www.youtube.com/watch?v=7cp5imvDzl4) | O(n) | O(h) | DFS |
+| [Delete node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Video](https://www.youtube.com/watch?v=LFzAoJJt92M) | O(h) | O(h) | Recursion |
 
 ## Dynamic Programming
 
