@@ -130,7 +130,6 @@ python -m unittest tests.specific_test_file
 ## Dynamic Programming
 
 | Problem | Video | Time Complexity | Space Complexity | Approach |
-|---------|-------|-----------------|------------------|----------|
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI&t=6s&ab_channel=NeetCode) | O(n) | O(n) | Bottom-up |
 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Video](https://www.youtube.com/watch?v=koE9ly1CFDc&t=37s&ab_channel=GregHogg) | O(N*M) | O(A) | Bottom-up |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Video](https://www.youtube.com/watch?v=cjWnW0hdF1Y) | O(n²) | O(n) | Bottom-up |
@@ -148,6 +147,7 @@ python -m unittest tests.specific_test_file
 | [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Video](https://www.youtube.com/watch?v=UZRkpGk943Q) | O(n) | O(1) | Bottom-up |
 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Video](https://www.youtube.com/watch?v=ktmzAZWkEZ0) | O(n) | O(n) | Bottom-up |
 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Video](https://www.youtube.com/watch?v=XYi2-LPrwm4) | O(m * n) | O(m * n) | DP |
+| [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Video] | O(n) | O(1) | DP |
 
 ## Graph
 
