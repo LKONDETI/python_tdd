@@ -144,6 +144,7 @@ python -m unittest tests.specific_test_file
 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Video](https://www.youtube.com/watch?v=Yan0cv2cLy8) | O(n) | O(1) | Greedy |
 | [Subsets](https://leetcode.com/problems/subsets/) | [Video](http://youtube.com/watch?v=REOH22Xwdkk) | O(n·2ⁿ) | O(n·2ⁿ) | Backtracking |
 | [Permutations](https://leetcode.com/problems/permutations/) | [Video](http://youtube.com/watch?v=s7AvT7cGdSo) | O(n!) | O(n!) | Backtracking |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Video](https://www.youtube.com/watch?v=0snEunUacZY) | O(n.4**n) | O(n.4**n) | Backtracking |
 | [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Video](https://www.youtube.com/watch?v=UZRkpGk943Q) | O(n) | O(1) | Bottom-up |
 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Video](https://www.youtube.com/watch?v=ktmzAZWkEZ0) | O(n) | O(n) | Bottom-up |
 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Video](https://www.youtube.com/watch?v=XYi2-LPrwm4) | O(m * n) | O(m * n) | DP |
