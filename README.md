@@ -126,6 +126,7 @@ python -m unittest tests.specific_test_file
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Video](https://www.youtube.com/watch?v=KcNt6v_56cc) | O(h) | O(h) | Recursion |
 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Video](https://www.youtube.com/watch?v=7cp5imvDzl4) | O(n) | O(h) | DFS |
 | [Delete node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Video](https://www.youtube.com/watch?v=LFzAoJJt92M) | O(h) | O(h) | Recursion |
+| [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Video](https://www.youtube.com/watch?v=hbzdyIlvBKI) | O(n) | O(n) | Recursion |
 
 ## Dynamic Programming
 
