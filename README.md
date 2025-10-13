@@ -171,8 +171,17 @@ python -m unittest tests.specific_test_file
 
 ## Linked List
 
+...existing code...
+## Array
+
 | Problem | Video | Time Complexity | Space Complexity | Approach |
 |---------|-------|-----------------|------------------|----------|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | [Video](https://www.youtube.com/watch?v=UXDSeD9mN-k) | O(n) | O(n) | Hash Set |
+| [Two Sum II (Input Array Is Sorted)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Video](https://www.youtube.com/watch?v=Q2Tw6gcVEwc) | O(n) | O(1) | Two Pointer |
+| [3 Sum](https://leetcode.com/problems/3sum/) | [Video](https://www.youtube.com/watch?v=jzZsG8n2R9A) | O(n²) | O(1) / O(n) | Two Pointer |
+| [4 Sum](https://leetcode.com/problems/4sum/) | [Video](https://www.youtube.com/watch?v=4ggF3tXIAp0) | O(n³) | O(n) | Two Pointer |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Video](https://www.youtube.com/watch?v=1pkOgXD63yU) | O(n) | O(1)| Optimal |
+...existing code...
 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/watch?v=KRxeMng7fBU) | O(n) | O(1) | Iterative |
 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Video](https://www.youtube.com/watch?v=Qk0zUZW-U_M) | O(n) | O(1) | Iterative |
 | [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | [Video](https://www.youtube.com/watch?v=gBTe7lFR3vc&ab_channel=NeetCode) | O(n) | O(1) | Fast and Slow pointers |
