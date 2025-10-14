@@ -182,7 +182,11 @@ python -m unittest tests.specific_test_file
 | [4 Sum](https://leetcode.com/problems/4sum/) | [Video](https://www.youtube.com/watch?v=4ggF3tXIAp0) | O(n³) | O(n) | Two Pointer |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Video](https://www.youtube.com/watch?v=1pkOgXD63yU) | O(n) | O(1)| Optimal |
 ...existing code...
-| [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Video](https://www.youtube.com/watch?v=KRxeMng7fBU) | O(n) | O(1) | Iterative |
+...existing code...
+| [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Video](https://www.youtube.com/watch?v=doj95MelfSA) | O(n) | O(1) | slow and fast algorithm |
+| [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Video](https://www.youtube.com/watch?v=p10f-VpO4nE) | O(n) | O(1) | Two-Pointer Technique |
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Video](https://www.youtube.com/watch?v=XVuQxVej6y8) | O(n) | O(1) | Two Pointer (Fast and Slow) |
+...existing code...
 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Video](https://www.youtube.com/watch?v=Qk0zUZW-U_M) | O(n) | O(1) | Iterative |
 | [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | [Video](https://www.youtube.com/watch?v=gBTe7lFR3vc&ab_channel=NeetCode) | O(n) | O(1) | Fast and Slow pointers |
 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Video](https://www.youtube.com/watch?v=WT0O4TTjyNc) | O(n) | O(1) | Fast and Slow algorithm |
