@@ -264,6 +264,7 @@ python -m unittest tests.specific_test_file
 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Video](https://www.youtube.com/watch?v=4KcZOGPjJ9Q) | O(1) (amortized) | O(n) | Queue |
 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Video](https://www.youtube.com/watch?v=QPZ0pIK_wsc) | O(n) | O(1) | Simulation |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Video](https://www.youtube.com/watch?v=zdMhGxRWutQ) | O(logn) | O(1) | Binary Search |
+| [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Video](https://www.youtube.com/watch?v=gU8raekRs1E) | O(n + k) | O(n) | DFS / BFS |
 
 ---
 
