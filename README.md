@@ -159,6 +159,7 @@ python -m unittest tests.specific_test_file
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Video](https://www.youtube.com/watch?v=pV2kpPD66nE) | O(m * n) | O(m * n) | BFS |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Video](https://www.youtube.com/watch?v=EgI5nU9etnU) | O(numCourses + prerequisites) | O(numCourses + prerequisites) | DFS |
 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Video](https://www.youtube.com/watch?v=Akt3glAwyfY) | O(prereq + numCourses) | O(prereq + numCourses) | Topological Sort |
+| [Number of Provices](https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2&envId=leetcode-75) | [Video](https://www.youtube.com/watch?v=giA3v_oB9Q4) | O(n*n) | O(v) | DFS |
 
 ## Matrix
 
