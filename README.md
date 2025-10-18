@@ -160,6 +160,7 @@ python -m unittest tests.specific_test_file
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Video](https://www.youtube.com/watch?v=EgI5nU9etnU) | O(numCourses + prerequisites) | O(numCourses + prerequisites) | DFS |
 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Video](https://www.youtube.com/watch?v=Akt3glAwyfY) | O(prereq + numCourses) | O(prereq + numCourses) | Topological Sort |
 | [Number of Provices](https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2&envId=leetcode-75) | [Video](https://www.youtube.com/watch?v=giA3v_oB9Q4) | O(n*n) | O(v) | DFS |
+| [Reorder routes to make all paths leads to city Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/?envType=study-plan-v2&envId=leetcode-75) | [Video](https://www.youtube.com/watch?v=m17yOR5_PpI) | O(n) | O(n) | BFS |
 
 ## Matrix
 
