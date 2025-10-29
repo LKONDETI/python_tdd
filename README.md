@@ -250,6 +250,7 @@ python -m unittest tests.specific_test_file
 | Problem | Video | Time Complexity | Space Complexity | Approach |
 |---------|-------|-----------------|------------------|----------|
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Video](https://www.youtube.com/watch?v=44H3cEC2fFM&ab_channel=NeetCode) | O(n log n) | O(n) | Sorting |
+| [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) | [Video](https://www.youtube.com/watch?v=yXuGtGizz7M) | O(n) | O(n) | Sorting |
 
 ## Miscellaneous
 
