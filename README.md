@@ -83,6 +83,7 @@ python -m unittest tests.specific_test_file
 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Video](https://www.youtube.com/watch?v=oypp_RzI69w) | O(n + m) | O(n + m) | Hash Set |
 | [Plus One](https://leetcode.com/problems/plus-one/) | [Video](https://www.youtube.com/watch?v=jIaA8boiG1s) | O(n) | O(1) | simulation of manual addition (digit-wise traversal from right to left) |
 | [Find First and Last Position in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Video](https://www.youtube.com/watch?v=4sQL7R5ySUU) | O(log(n)) | O(1) | Binary Search |
+| [H-Index](https://leetcode.com/problems/h-index/) | [Video](https://www.youtube.com/watch?v=mgG5KFTvfPw) | O(n) | O(n) | Counting sort/bucket method|
 
 ## String
 
@@ -96,7 +97,7 @@ python -m unittest tests.specific_test_file
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Video](https://www.youtube.com/watch?v=jJXJ16kPFWg) | O(n) | O(1) | Two-pointer |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Video](https://www.youtube.com/watch?v=0sWShKIJoo4) | O(n) | O(n) | Vertical scanning |
 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Video](https://www.youtube.com/watch?v=rBENYgWy3xU) | O(n) | O(1) | Hash Map |
-| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Video](https://www.youtube.com/watch?v=RApd40quMtA) | O(n) | O(1) | Two-pointer |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Video](https://www.youtube.com/watc| Binary Search |h?v=RApd40quMtA) | O(n) | O(1) | Two-pointer |
 | [String Compression](https://leetcode.com/problems/string-compression/) | [Video](https://www.youtube.com/watch?v=V3welyTMqVM) | O(n) | O(1) | Two Pointer |
 | [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Video](https://www.youtube.com/watch?v=6i_WeknfdVg) | O(n) | O(n) | Stack |
 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Video](https://www.youtube.com/watch?v=4yGzF8hGJtI) | O(n) | O(1) | Hash Map |
