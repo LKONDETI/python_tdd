@@ -13,3 +13,5 @@ class Solution:
                 D.append(dire + len(senate))
             
         return "Radiant" if R else "Dire"  
+
+# time and space complexity: O(n)

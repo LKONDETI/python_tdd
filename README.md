@@ -270,6 +270,7 @@ python -m unittest tests.specific_test_file
 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Video](https://www.youtube.com/watch?v=QPZ0pIK_wsc) | O(n) | O(1) | Simulation |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Video](https://www.youtube.com/watch?v=zdMhGxRWutQ) | O(logn) | O(1) | Binary Search |
 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Video](https://www.youtube.com/watch?v=gU8raekRs1E) | O(n + k) | O(n) | DFS / BFS |
+| [Dota 2 Sonate](https://leetcode.com/problems/dota2-senate/description/) | [Video](https://www.youtube.com/watch?v=c8plo2Sp7Ps) | O(n) | O(n) | Dequeue |
 
 ---
 
