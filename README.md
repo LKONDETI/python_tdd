@@ -225,6 +225,7 @@ python -m unittest tests.specific_test_file
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Video](https://www.youtube.com/watch?v=KcNt6v_56cc) | O(h) | O(h) | Recursion |
 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Video](https://www.youtube.com/watch?v=7cp5imvDzl4) | O(n) | O(h) | DFS) | O(max(len(a), len(b))) | O(max(len(a), len(b))) | Bit Manipulation |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Video](https://www.youtube.com/watch?v=g_S5WuasWUE) | O(n) | O(n) | In-order traversal |
+| [Reverse Interval](https://leetcode.com/problems/reverse-integer/description/) | [Video](https://www.youtube.com/watch?v=RipBY_6XuyY&t=1s) | O(d)(no of digits) | O(1) | Bit reversal |
 
 ## Heap
 
