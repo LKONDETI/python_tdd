@@ -194,7 +194,8 @@ python -m unittest tests.specific_test_file
 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Video](https://www.youtube.com/watch?v=doj95MelfSA) | O(n) | O(1) | slow and fast algorithm |
 | [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Video](https://www.youtube.com/watch?v=p10f-VpO4nE) | O(n) | O(1) | Two-Pointer Technique |
 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/description/) | [Video](https://www.youtube.com/watch?v=dJ7sWiOoK7g) | O(n) | O(1) | Greedy Algorithm |
-| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Video](https://www.youtube.com/watch?v=68isPRHgcFQ) | O(n) | O(n) | Hash Set |
+| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Video](https://www.youtube.com/watch?v=68isPRHgcFQ) | O(n) | O(n) | List |
+| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | [Video](https://www.youtube.com/watch?v=68isPRHgcFQ) | O(n) | O(n) | List |
 
 ## Binary Problems
 
