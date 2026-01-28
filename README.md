@@ -103,7 +103,7 @@ python -m unittest tests.specific_test_file
 ## String
 
 | Problem | Video | Time Complexity | Space Complexity | Approach |
-
+|---------|-------|-----------------|------------------|----------|
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Video](https://www.youtube.com/watch?v=FCbOzdHKW18&ab_channel=GregHogg) | O(n) | O(n) | Sliding Window |
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Video](https://www.youtube.com/watch?v=7yF-U1hLEqQ&ab_channel=NeetCode) | O(n) | O(k) | Hash map |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Video](https://www.youtube.com/watch?v=jSto0O4AJbM&ab_channel=NeetCode) | O(n) | O(n) | Sliding Window |
@@ -130,7 +130,7 @@ python -m unittest tests.specific_test_file
 ## Tree
 
 | Problem | Video | Time Complexity | Space Complexity | Approach |
-
+|---------|-------|-----------------|------------------|----------|
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Video](https://www.youtube.com/watch?v=Hr5cWUld4vU&ab_channel=NeetCode) | O(n) | O(n) or O(log n) | DFS |
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Video](https://www.youtube.com/watch?v=PwjF3RO9djY&ab_channel=GregHogg) | O(n) | O(n) | In-order traversal |
 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Video](https://www.youtube.com/watch?v=Z2Q6UsVIyxY) | O(n) | O(n) | DFS |
@@ -147,6 +147,7 @@ python -m unittest tests.specific_test_file
 ## Dynamic Programming
 
 | Problem | Video | Time Complexity | Space Complexity | Approach |
+|---------|-------|-----------------|------------------|----------|
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Video](https://www.youtube.com/watch?v=Y0lT9Fck7qI&t=6s&ab_channel=NeetCode) | O(n) | O(n) | Bottom-up |
 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Video](https://www.youtube.com/watch?v=koE9ly1CFDc&t=37s&ab_channel=GregHogg) | O(N*M) | O(A) | Bottom-up |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Video](https://www.youtube.com/watch?v=cjWnW0hdF1Y) | O(n²) | O(n) | Bottom-up |
