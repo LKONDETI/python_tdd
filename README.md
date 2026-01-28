@@ -199,8 +199,6 @@ python -m unittest tests.specific_test_file
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Video](https://www.youtube.com/watch?v=UcoN6UjAI64&ab_channel=NeetCode) | O(1) | O(1) | Bit Manipulation |
 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Video](https://www.youtube.com/watch?v=d4zLyf32e3I&t=225s) | O(n) | O(n) | BFS |
 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Video](https://www.youtube.com/watch?v=keuWJ47xG8g## Tree
-| Problem | Video | Time Complexity | Space Complexity | Approach |
-|---------|-------|-----------------|------------------|----------|
 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Video](https://www.youtube.com/watch?v=Hr5cWUld4vU&ab_channel=NeetCode) | O(n) | O(n) or O(log n) | DFS |
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Video](https://www.youtube.com/watch?v=PwjF3RO9djY&ab_channel=GregHogg) | O(n) | O(n) | In-order traversal |
 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Video](https://www.youtube.com/watch?v=Z2Q6UsVIyxY) | O(n) | O(n) | DFS |
