@@ -98,7 +98,7 @@ python -m unittest tests.specific_test_file
 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/description/) | [Video](https://www.youtube.com/watch?v=dJ7sWiOoK7g) | O(n) | O(1) | Greedy Algorithm |
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Video](https://www.youtube.com/watch?v=68isPRHgcFQ) | O(n) | O(n) | List |
 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | [Video](https://www.youtube.com/watch?v=68isPRHgcFQ) | O(n) | O(n) | List |
-
+| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | - | O(n) | O(n) | List |
 
 ## String
 
